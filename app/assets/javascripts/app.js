@@ -1,0 +1,3 @@
+pricesapi = angular.module('pricesapi',[
+
+])
